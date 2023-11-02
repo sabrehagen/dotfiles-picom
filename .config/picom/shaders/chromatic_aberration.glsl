@@ -10,7 +10,7 @@ vec2 uvb = vec2(-3,0);
 // on pixels further away from the center of the window
 // and weaker on pixels close to it
 // Set as 0 to disable
-float scaling_factor = 3.5;
+float scaling_factor = 0.4;
 
 // Base strength of the effect. To be used along the scaling_factor
 // Tells how strong the effect is at the center
